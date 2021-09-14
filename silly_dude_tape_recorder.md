@@ -14,5 +14,5 @@
 `Silly Dude:` Okay, fine, let's talk about it. I want to understand.  
 `Tape Recorder:` Hold on, wait, I think I got a call.  
 
-***Tape Recorder exits conversation, goes back to the studio, will return after a few months with another sentence.***
+***Tape Recorder exits conversation, goes back to the studio, will return after a few months with another sentence, about Silly Dude.***
 
