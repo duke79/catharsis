@@ -1,16 +1,18 @@
 # Preface
 
-Most books tend to be bloated with words for my taste. Things could be said simply & in shorter lengths, I often to think myself.  
-But then, I haven't read enough books, because "most books tend to be bloated for my taste".
-So, maybe I don't even know how most books are.  
+Most books tend to be bloated with words for my taste. Things could be said simply & in shorter lengths, I often like to think to myself.  
+
+But then, I haven't read enough books, because "most books tend to be bloated for my taste". So, maybe I don't even know how most books are.  
+
 In recent past though it has become clearer why so many words are needed.
 Books are very different from a one-on-one communication, you know little about your reader.  
+
 It has to be written for many different types of minds & has to do a good job at capturing things in one go, I believe.
 
 But what are my beliefs worth? Whatever is true is true and whatever is false is false, regardless of my beliefs.  
 The age of science has no scope for beliefs, right?  
 
-But not everything is known for sure. Hence, there's scope for beliefs. But are all beliefs made equal?  
+But not everything is known for sure. There still are "unknowns" in the world. Hence, there's scope for beliefs. But are all beliefs made equal?  
 Are the beliefs of "hollow earth", "multple earths in multiverses" and "sun is inhabited by fire people" all equal?  
 
 It seems some beliefs are more self-contradictory than others. That is the premise for most things that are going to follow. That is what "critical thinking" and "being logical" mean, in my opinion. That is what differentiates reasonable from un-reasonable (or less reasonable). [[1]](https://www.csus.edu/indiv/m/mayesgr/phl4/handouts/phl4contradiction.htm#:~:text=In%20logic%2C%20it%20is%20a,some%20simple%20examples%20of%20contradictions.)
