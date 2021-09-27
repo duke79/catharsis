@@ -1,3 +1,3 @@
 # catharsis
 
-* [Silly Dude vs Tape Recorder](silly_dude_tape_recorder.md)
+* [Silly Dude vs Tape Recorder](./random/silly_dude_tape_recorder.md)
