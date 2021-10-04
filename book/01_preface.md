@@ -19,7 +19,7 @@ It seems some beliefs are more self-contradictory than others. That is the premi
 
 Science is where things can be proved and verified. But philosophy seems to be where things can't be experimentally/empirically verified, yet can be sorted in the order of reasonability. [[2]](https://1000wordphilosophy.com/2018/02/13/philosophy-and-its-contrast-with-science/#:~:text=Science%20is%20about%20empirical%20knowledge,knowledge%20(if%20it%20exists).&text=Science%20is%20about%20descriptive%20facts,objects%20(if%20they%20exist).)  
 
-Philosophy or Science, whatever you call it, the things to hold on to is "uncharted territories".   
+Philosophy or Science, whatever you call it, the thing to hold on to is "uncharted territories".   
 *David Eagleman would call it possibilianism [[4]](https://www.youtube.com/watch?v=LENqnjZGX0A).*  
 
 But -
