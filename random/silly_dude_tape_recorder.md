@@ -8,7 +8,7 @@
 `Silly Dude:` Can you please elaborate? What made you think that?  
 `Tape Recorder:` Umm... I don't like this question.  
 `Silly Dude:` What do you mean you don't like this question? You said something about me that felt like a blame.  
-`Tape Recorder:` Silly Dude, there are so many other things to talk aobut.  
+`Tape Recorder:` Silly Dude, there are so many other things to talk about.  
 `Silly Dude:` But you started this?!  
 `Tape Recorder:` Silly Dude, I know you see in black & white only.  
 `Silly Dude:` Okay, fine, let's talk about it. I want to understand.  
