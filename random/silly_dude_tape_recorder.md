@@ -4,7 +4,7 @@
 
 *Tape Recorder* eventually meets *Silly Dude* one day and has something to say.  
 
-`Tape Recorder:` Silly Dude, you only seen in black & white.  
+`Tape Recorder:` Silly Dude, you only see in black & white.  
 `Silly Dude:` Can you please elaborate? What made you think that?  
 `Tape Recorder:` Umm... I don't like this question.  
 `Silly Dude:` What do you mean you don't like this question? You said something about me that felt like a blame.  
