@@ -26,7 +26,7 @@ But the assertion that is being made here is that -
 
 > Some ways are better than others while dealing with the unknown.
 
-The contradictions happen when two assertions made are impossible to be true simultaneously, given the constraints/axioms. Sometimes it's the axioms that are faulty, sometimes the constraints aren't correctly assumed. In those cases, those axioms must be stated (and if not verifiable, to be considered beliefs) excplicitly. Eventually, the law of noncontradiction holds. [[3]](https://en.wikipedia.org/wiki/Law_of_noncontradiction)
+The contradictions happen when two assertions made are impossible to be true simultaneously, given the constraints/axioms. Sometimes it's the axioms that are faulty, sometimes the constraints aren't correctly assumed. In those cases, those axioms must be stated (and if not verifiable, to be considered beliefs) excplicitly. Eventually, the law of noncontradiction must hold. [[3]](https://en.wikipedia.org/wiki/Law_of_noncontradiction) Lesser the contradictions, more pleasing the hypothesis/theory.
 
 ---
 
